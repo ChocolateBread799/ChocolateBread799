@@ -6,5 +6,5 @@
 - [✨ Dribbble](https://dribbble.com/chocolatebread799)
 
 ### Pinned repository
-- [Awesome dot](https://github.com/ChocolateBread799/Awesomewm_Dotfile)
+- [awesomewm dotfiles](https://github.com/ChocolateBread799/Awesomewm_Dotfile)
 - [startpage](https://github.com/ChocolateBread799/startpage)
