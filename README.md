@@ -7,4 +7,4 @@
 
 ### Pinned repository
 - [awesomewm dotfiles](https://github.com/ChocolateBread799/Awesomewm_Dotfile)
-- [startpage](https://github.com/ChocolateBread799/startpage)
+- [website](https://github.com/ChocolateBread799/website_template)
