@@ -7,4 +7,3 @@
 
 ### Pinned repository
 - [awesomewm dotfiles](https://github.com/ChocolateBread799/Awesomewm_Dotfile)
-- [website](https://github.com/ChocolateBread799/website_template)
